@@ -27,3 +27,4 @@ module.exports = {
   variant: "1A",
   processArrayItems,
 };
+
